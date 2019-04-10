@@ -1,2 +1,2 @@
 # www.CSSAA.online
-Website criado com recurso a HTML e CSS
+Website criado em HTML5 e CSS com recurso ao Microsoft Expression Web
